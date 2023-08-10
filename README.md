@@ -1,5 +1,5 @@
 ### Hello world 👋
 
 - 🔭 Ainda não trabalho
-- 🌱 Estou aprendendo Linguagem C
-- 📫 Meu email já ta ai acho..
+- 🌲 Sei o completo básico de Linguagem C
+- 🌱 Atualmente estou estudando POO e Estrutura de dados
