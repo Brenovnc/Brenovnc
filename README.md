@@ -1,5 +1,5 @@
 ### Hello world 👋
 
 - 🔭 Ainda não trabalho
-- 🌲 Sei o completo básico de Linguagem C
-- 🌱 Atualmente estou estudando POO e Estrutura de dados
+- 🌲 Conhecimento em linguagem C, Orientado a Objetos em python
+- 🌱 Atualmente estudando assembly e programação web
