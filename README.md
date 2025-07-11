@@ -155,23 +155,11 @@
 
 
 
-## Contatos
+<hr>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/breno-carneiro/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:brenovnc2023@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-
-<h3>Meus status:</h3>
-
-<p>
-  <img 
+<div style="text-align: center;">
+  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=brenovnc&locale=pt-BR&theme=dark&hide_border=false"
     alt="GitHub Streak"
   />
-</p>
+</div>
