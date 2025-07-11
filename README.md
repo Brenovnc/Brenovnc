@@ -170,5 +170,8 @@
 <h3>Meus status:</h3>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=Brenovnc&locale=pt-BR&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=brenovnc&locale=pt-BR&theme=dark&hide_border=false"
+    alt="GitHub Streak"
+  />
 </p>
